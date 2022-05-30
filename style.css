@@ -1,0 +1,40 @@
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    color: #b7410e;
+}
+body{
+    background: #C9A9A6;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #6E2708;
+}
+
+p {
+    font-size: .9em;
+    line-height: 1.8em;
+    letter-spacing: .103em;
+    margin-bottom: 15px;
+  }
+
+  img{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+  
+  figcaption{
+    text-align: center;
+    font-size: small;
+  }
+
+  section#Socials >div {
+    float: left;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    background-color: #CC9999
+    ;
+  }
